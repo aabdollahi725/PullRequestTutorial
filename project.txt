@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
-This change was added via a Pull Request.
-Sample text
+This change was added via a Pull Request and I learned pull request.
+This course is about code review
